@@ -1,0 +1,6 @@
+@article{dai2022boosting,
+  title={Boosting Robustness of Image Matting with Context Assembling and Strong Data Augmentation},
+  author={Dai, Yutong and Price, Brian and Zhang, He and Shen, Chunhua},
+  journal={arXiv preprint arXiv:2201.06889},
+  year={2022}
+}
